@@ -1,2 +1,2 @@
-# node-todo-demoApp
+# todo-demoApp
 just a todo-app, based on node.js
